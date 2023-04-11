@@ -1,3 +1,14 @@
-# TIL
+# Today I learned
 
-첫 코밋 테스트
+An investment in knowledge pays the best interest!
+
+TypeScript
+-------------
+
+
+NestJS
+-------------
+
+
+Chat GPT
+------------
